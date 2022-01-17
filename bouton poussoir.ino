@@ -67,5 +67,5 @@ digitalWrite(yellow_led, etat_yellow_led);
 digitalWrite(blue_led, etat_red_led);
 digitalWrite(red_led, etat_blue_led);
 
-delay(200);
+delay(100);
 }
