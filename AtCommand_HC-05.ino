@@ -2,10 +2,10 @@
 	Ce programme permet de configurer le module bluetooth HC-05/06
 	
  *** AUTEUR : RACHEl SYSTEME
- *** DATE 	: 11 / 03 / 2022
- *** YOUTUBE: 
+ *** DATE   : 11 / 03 / 2022
+ *** YOUTUBE: https://www.youtube.com/channel/UCf4jGfp-BFp6GLd6eTptVMg?sub_confirmation=1
 
- *** Liste AT COMMAND : 
+ *** Liste AT COMMAND : https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/709/HC-05_ATCommandSet.pdf
 
  NB:
  	Rassurez - vous d'activer le mode commande du module bluetooth
