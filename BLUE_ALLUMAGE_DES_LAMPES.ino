@@ -3,8 +3,8 @@
   des lampes depuis son téléphone via le module bluetooth
 	
  *** AUTEUR : RACHEl SYSTEME
- *** DATE 	: 11 / 03 / 2022
- *** YOUTUBE: 
+ *** DATE   : 11 / 03 / 2022
+ *** YOUTUBE: https://www.youtube.com/channel/UCf4jGfp-BFp6GLd6eTptVMg?sub_confirmation=1
 
 */
 
