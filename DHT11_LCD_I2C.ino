@@ -48,7 +48,7 @@ void loop() {
   temperature = dht.readTemperature();
     lcd.setCursor(6,0);
     lcd.print(temperature);
-    lcd.write(deg);
+    lcd.write(0);
     lcd.print("C");
 
   humidity = dht.readHumidity();
