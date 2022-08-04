@@ -13,7 +13,7 @@
  *  *comparer à la fonction "delay", "millis" est une fonction non-bloquante.
  * 
  *  *Dans ce programme nous allons nous servir des valeurs renvoyé par la fonction "millis" afin de
- *  faire un ensemble de 3 LEDS ensemble puis de façon individuelle.
+ *  faire clignoter un ensemble de 3 LEDS ensemble puis de façon individuelle.
  * 
  * Merci de bien vouloir vous abonnez à la chaîne et de la partager s'il vous plaît !!!
 **/
