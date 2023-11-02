@@ -1,7 +1,7 @@
 /*
 	Ce programme permet de configurer le module bluetooth HC-05/06
 	
- *** AUTEUR : RACHEl SYSTEME
+ *** AUTEUR : Exaucé KIMBEMBE / @OpenProgramming
  *** DATE   : 11 / 03 / 2022
  *** YOUTUBE: https://www.youtube.com/channel/UCf4jGfp-BFp6GLd6eTptVMg?sub_confirmation=1
 
