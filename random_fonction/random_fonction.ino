@@ -1,9 +1,9 @@
 /**
- * e-mail : rachelsysteme@gmail.com
+ * e-mail : openprogramming23@gmail.com
  * gitHub : https://github.com/RS-malik-el
  * Donation : paypal.me/RachelSysteme
  * 
- * @AUTHEUR : RACHEL SYSTEME
+ * AUTEUR : Exaucé KIMBEMBE / OpenProgramming
  * DATE : 23/08/2021
  * 
  * @Board : arduino Uno
